@@ -1,11 +1,11 @@
 [{
     "id": 23,
     "featured": true,
-    "name": "Dawid Ostrowski",
-    "title": "Developer Relations Program Manager",
-    "company": "Google",
-    "country": "Switzerland",
-    "photoUrl": "../../images/people/dawid_ostrowski.jpg",
+    "name": "Séti Afanou",
+    "title": "Android Developer certifié par Google",
+    "company": "Digital Inspiration",
+    "country": "Togo",
+    "photoUrl": "../../images/people/seti_afanou.jpg",
     "bio": "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action.",
     "tags": ["Entrepreneurship"],
     "socials": [{
@@ -16,11 +16,11 @@
 }, {
     "id": 9,
     "featured": true,
-    "name": "Mandy Waite",
-    "title": "Developer Relations Engineer",
-    "company": "Google",
-    "country": "UK",
-    "photoUrl": "../../images/people/mandy_waite.jpg",
+    "name": "Marie-Colombe TRA LOU",
+    "title": "Développeur d'applications",
+    "company": "",
+    "country": "Côte d'Ivoire",
+    "photoUrl": "../../images/people/marie_colombe.jpg",
     "bio": "Based in London, UK, Mandy is a Developer Relations Engineer at Google specializing in Container and Cloud technologies and working to make the world a better place for developers building applications for the Cloud. Before Google Mandy worked at Sun Microsystems on performance and scalability of Java and JavaEE and on porting Open Source apps to OpenSolaris. In her spare time Mandy is learning Japanese and likes to play the guitar.",
     "tags": ["Cloud", "Firebase", "gRPC", "Kubernetes", "Docker"],
     "socials": [{
@@ -39,11 +39,11 @@
 }, {
     "id": 15,
     "featured": true,
-    "name": "Jakub Škvára",
-    "title": "Frontend engineer",
+    "name": "Éric Zilé Kouassi",
+    "title": "Ingénieur études et développement",
     "company": "Shipito",
-    "country": "Czech Republic",
-    "photoUrl": "../../images/people/jakub_skvara.jpg",
+    "country": "Côte d'Ivoirec",
+    "photoUrl": "../../images/people/eric_zile.jpg",
     "bio": "Jakub is a member of GDG Prague and GDG ČVUT in Czech republic. He organised together with Jana Moudrá several Polymer and Dart code labs and a hackaton. He works as a frontend engineer for Shipito. Jakub is interested in modern Javascript frameworks, libraries and tools and loves clean code.",
     "tags": ["Web", "Polymer"],
     "badges": [{
@@ -62,11 +62,12 @@
     }]
 }, {
     "id": 14,
-    "name": "Jana Moudrá",
-    "title": "Co-Founder",
-    "company": "Juicymo",
-    "country": "Czech Republic",
-    "photoUrl": "../../images/people/jana_moudra.jpg",
+    "name": "Komi Serge Innocent",
+    "featured": true,
+    "title": "Développeur java",
+    "company": "",
+    "country": "Côte d'Ivoire",
+    "photoUrl": "../../images/people/komi_serge.jpg",
     "bio": "GDE (Google Developer Expert) for Dart. Jana is a passionate developer and modern web and mobile technology evangelist. She is an event organiser for GDG Prague, where she arranges events for developers including public lectures, code labs and hackathons – covering a wide range of subjects including technologies Dart or Android. She loves to help other developers and spread the knowledge about these technologies. <br/><br/>Jana co-founded a company called Juicymo, where she works on juicy apps and products.",
     "tags": ["Web", "Dart"],
     "badges": [{
@@ -75,7 +76,7 @@
         "link": "https://developers.google.com/experts/people/jana-moudr"
     }, {
         "name": "GDG",
-        "description": "Google Developers Group Prague",
+        "description": "Google Developers Group MIAGE GI",
         "link": "https://developers.google.com/groups/chapter/111919016509847766513/"
     }],
     "socials": [{
@@ -97,7 +98,7 @@
     }]
 }, {
     "id": 11,
-    "featured": true,
+    "featured": false,
     "name": "Hallade Xavier",
     "title": "Developer Evangelist",
     "company": "Intel",
@@ -129,7 +130,7 @@
     }]
 }, {
     "id": 1,
-    "featured": true,
+    "featured": false,
     "name": "Said Tahsin Dane",
     "title": "Mobile Coder",
     "company": "Startup Digest",
@@ -161,7 +162,7 @@
     }]
 }, {
     "id": 2,
-    "featured": true,
+    "featured": false,
     "name": "Mateusz Herych",
     "title": "Software Engineer",
     "company": "Base CRM",
@@ -193,7 +194,7 @@
     }]
 }, {
     "id": 19,
-    "featured": true,
+    "featured": false,
     "name": "Juarez Filho",
     "title": "Front End Engineer",
     "company": "madewithlove",
@@ -274,7 +275,7 @@
     }]
 }, {
     "id": 5,
-    "featured": true,
+    "featured": false,
     "name": "Michał Tajchert",
     "title": "CEO",
     "company": "12Hours.io",
